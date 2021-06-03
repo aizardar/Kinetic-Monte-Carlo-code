@@ -1,0 +1,7 @@
+10     # System Size(L)
+1000	# Number of hydrogen atoms
+500	# Temperature(T)
+0.0	# Reference Energy (All Fe)
+0.55	# Activation Energy for jump from all Fe to all Fe Configuration
+0.2	# Energy difference between 5Fe1Al and 6Fe configuration
+-0.03	# Energy of the interstitial site when 1 Al atom is 2nd nearest neighbour
